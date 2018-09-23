@@ -47,6 +47,14 @@ title: Books to Read for Programmers
 - [Amazon Smile](https://smile.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/)
 - ISBN-13: 978-0131103628
 
+*The Ruby on Rails Tutorial by Michael Hartl*
+- https://www.railstutorial.org/book
+- ISBN-13: 978-0321832054
+
+*Android 6 for Programmers by Paul J. Deitel, Harvey Deitel and Alexander Wald*
+- https://www.amazon.com/Android-Programmers-App-Driven-Approach-Developer/dp/0134289366
+- ISBN-13: 978-0134289366
+
 
 This list was compiled from multiple suggestion threads on Reddit and Stackoverflow. 
 Please feel free to add more that you have found useful!
